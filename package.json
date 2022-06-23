@@ -1,0 +1,20 @@
+{
+  "name": "simple_web_server_nodejs",
+  "version": "1.0.0",
+  "description": "this is a simple web server api using nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiva-kant-mishra/simple_web_server_nodejs.git"
+  },
+  "author": "shiva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shiva-kant-mishra/simple_web_server_nodejs/issues"
+  },
+  "homepage": "https://github.com/shiva-kant-mishra/simple_web_server_nodejs#readme"
+}
